@@ -1,0 +1,41 @@
+# 下書き・指示書などの作業用フォルダ（説明用の README だけ追跡する）
+_local/*
+!_local/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter / 実行結果
+.jupyter/
+*.nbconvert.ipynb
+
+# LaTeX 中間ファイル
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+
+# シミュレーション出力（必要なものは明示的に add する）
+output/
+results/
+*.vtk
+*.vtu
+
+# エディタ・OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
