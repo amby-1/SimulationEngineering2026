@@ -17,8 +17,8 @@ AI を使えばシミュレーション自体は簡単に実行できます。�
 | --- | --- | --- | --- |
 | 第1回 | イントロダクション ― 様々なシミュレーション | なし | 未設定 |
 | 第2回 | 数値計算入門 ― Python と NumPy の基礎 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/02_python_intro.ipynb) | 未設定 |
-| 第3回 | 常微分方程式の数値解法（1） ― オイラー法 | 未設定 | 未設定 |
-| 第4回 | 常微分方程式の数値解法（2） ― ルンゲ＝クッタ法 | 未設定 | 未設定 |
+| 第3回 | 常微分方程式の数値解法（1） ― オイラー法 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/03_euler_intro.ipynb) | 未設定 |
+| 第4回 | 常微分方程式の数値解法（2） ― ルンゲ＝クッタ法 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/04_runge_intro.ipynb) | 未設定 |
 | 第5回 | 常微分方程式の数値解法（3） ― 刻み幅と精度 | 未設定 | 未設定 |
 | 第6回 | モデル化の基礎 ― 対象の数式化 | 未設定 | 未設定 |
 | 第7回 | 演習（1）振り子のシミュレーションと相平面 | 未設定 | 未設定 |
@@ -74,6 +74,8 @@ Colab の欄のリンクを押すと、その回のノートブックが Google 
 ## 教科書・参考書
 
 特定の教科書は指定しません。数値計算法にかかわる一般的な教科書の内容に基づいています。授業資料は Google Colab 等を用いて共有します。
+
+演習で使う Python の文法は [Python チートシート](Reference/Pythonチートシート.md) にまとめています。書き方に迷ったときに参照してください。
 
 授業全体の詳細は [シラバス](Reference/シラバス.pdf) を参照してください。
 
