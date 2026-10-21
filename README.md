@@ -21,8 +21,8 @@ AI を使えばシミュレーション自体は簡単に実行できます。�
 | 第4回 | 常微分方程式の数値解法（2） ― ルンゲ＝クッタ法 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/04_runge_intro.ipynb) | 未設定 |
 | 第5回 | 常微分方程式の数値解法（3） ― 刻み幅と精度 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/05-06_2nd_order_simulation.ipynb) | 未設定 |
 | 第6回 | モデル化の基礎 ― 対象の数式化 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/05-06_2nd_order_simulation.ipynb)（第5回と同じ） | 未設定 |
-| 第7回 | 演習（1）振り子のシミュレーションと相平面 | 未設定 | 未設定 |
-| 第8回 | 演習（2）振り子のシミュレーションと妥当性評価 | 未設定 | 未設定 |
+| 第7回 | 演習（1）振り子のシミュレーションと相平面 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/07-08_exercise1_pendulum.ipynb) | 未設定 |
+| 第8回 | 演習（2）振り子のシミュレーションと妥当性評価 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/07-08_exercise1_pendulum.ipynb)（第7回と同じ） | 未設定 |
 | 第9回 | 逆振り子の安定化（根本関節トルクの制御） | 未設定 | 未設定 |
 | 第10回 | 線形化とヤコビアン | 未設定 | 未設定 |
 | 第11回 | 固有値と安定性 | 未設定 | 未設定 |
