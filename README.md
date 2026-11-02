@@ -23,9 +23,9 @@ AI を使えばシミュレーション自体は簡単に実行できます。�
 | 第6回 | モデル化の基礎 ― 対象の数式化 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/05-06_2nd_order_simulation.ipynb)（第5回と同じ） | 未設定 |
 | 第7回 | 演習（1）振り子のシミュレーションと相平面 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/07-08_exercise1_pendulum.ipynb) | 未設定 |
 | 第8回 | 演習（2）振り子のシミュレーションと妥当性評価 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/07-08_exercise1_pendulum.ipynb)（第7回と同じ） | 未設定 |
-| 第9回 | 逆振り子の安定化（根本関節トルクの制御） | 未設定 | 未設定 |
-| 第10回 | 線形化とヤコビアン | 未設定 | 未設定 |
-| 第11回 | 固有値と安定性 | 未設定 | 未設定 |
+| 第9回 | 線形化とヤコビアン | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/09-10_linear_system_explorer.ipynb) | 未設定 |
+| 第10回 | 固有値と安定性 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/09-10_linear_system_explorer.ipynb)（第9回と同じ） | 未設定 |
+| 第11回 | 逆振り子の安定化（根本関節トルクの制御） | 未設定 | 未設定 |
 | 第12回 | 連立方程式の数値解法 ― 平衡点の探索 | 未設定 | 未設定 |
 | 第13回 | 演習（3）逆振り子の制御シミュレーション | 未設定 | 未設定 |
 | 第14回 | 演習（4）逆振り子の制御シミュレーションと総復習 | 未設定 | 未設定 |
@@ -54,9 +54,9 @@ Colab の欄のリンクを押すと、その回のノートブックが Google 
 | 第5回 | 数値解法でどの程度の精度が担保できるのかを理解する |
 | 第6回 | モデル化の方法を理解する |
 | 第7〜8回 | 振り子のシミュレーションを通して数値解法を復習し、実装上の問題と精度の限界を把握する |
-| 第9回 | 逆振り子の安定化方法を、プログラムを動かしながら検討する |
-| 第10回 | システムの線形化とヤコビアンを理解する |
-| 第11回 | ヤコビアンの固有値と安定性を、線形代数や微分方程式の復習とあわせて理解する |
+| 第9回 | システムの線形化とヤコビアンを理解する |
+| 第10回 | ヤコビアンの固有値と安定性を、線形代数や微分方程式の復習とあわせて理解する |
+| 第11回 | 逆振り子の安定化方法を、プログラムを動かしながら検討する |
 | 第12回 | ニュートン法による連立方程式の数値解法を、平衡点の導出を例に理解する |
 | 第13〜14回 | 逆振り子のモデル化とシミュレーションを通して、安定性や制御工学を復習する |
 | 第15回 | 授業全体のまとめを通して習ったことを復習する |
