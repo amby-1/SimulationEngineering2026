@@ -25,8 +25,8 @@ AI を使えばシミュレーション自体は簡単に実行できます。�
 | 第8回 | 演習（2）振り子のシミュレーションと妥当性評価 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/07-08_exercise1_pendulum.ipynb)（第7回と同じ） | 未設定 |
 | 第9回 | 線形化とヤコビアン | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/09-10_linear_system_explorer.ipynb) | 未設定 |
 | 第10回 | 固有値と安定性 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/09-10_linear_system_explorer.ipynb)（第9回と同じ） | 未設定 |
-| 第11回 | 逆振り子の安定化（根本関節トルクの制御） | 未設定 | 未設定 |
-| 第12回 | 連立方程式の数値解法 ― 平衡点の探索 | 未設定 | 未設定 |
+| 第11回 | 逆振り子の安定化（根本関節トルクの制御） | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/11-12_inverted_pendulum_newton.ipynb) | 未設定 |
+| 第12回 | 連立方程式の数値解法 ― 平衡点の探索 | [Colabで開く](https://colab.research.google.com/github/amby-1/SimulationEngineering2026/blob/main/ColabCode/11-12_inverted_pendulum_newton.ipynb)（第11回と同じ） | 未設定 |
 | 第13回 | 演習（3）逆振り子の制御シミュレーション | 未設定 | 未設定 |
 | 第14回 | 演習（4）逆振り子の制御シミュレーションと総復習 | 未設定 | 未設定 |
 | 第15回 | 全体のまとめ・期末試験 | 未設定 | 未設定 |
